@@ -69,7 +69,7 @@ button {
 .dice {
   display: block;
   margin-left: 35%;
-  height: auto;
+  height: 250px;
   width: 30%;
 }
 }
