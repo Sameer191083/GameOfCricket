@@ -23,6 +23,7 @@ li {
   height: 20rem;
   }
 .dice {
+
   width: 50%;
   padding-top: 20px;
 }
@@ -59,4 +60,16 @@ button {
 }
 #button {
   font-size: 2rem;
+}
+
+@media (max-width:1028px) {
+  .btn {
+    display: block;
+  }
+.dice {
+  display: block;
+  margin-left: 35%;
+  width: 30%;
+
+}
 }
